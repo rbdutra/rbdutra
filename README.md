@@ -126,7 +126,9 @@ Atualmente atuo como **Assessor Judiciário**, com histórico como **Secretário
 | Sistema Mandado de Prisão / POLINTER | 2004–2008 | **Gerente de Projeto** | Java · Oracle |
 | SIP — Sistema Integrado de Processos de Gabinete | 2004–2022 | **Gerente de Projeto** | PHP · Oracle · AJAX |
 | HelpDesk, Inventário, dotProject, Moodle EAD (CPD) | 2008–2010 | Analista | PHP · MySQL |
-| Robô de Inserção PJe (RPA — 120 instâncias) | 2022 | Desenvolvedor | Python/Node.js |
+| eGAP - ERP Gestão Pública Administrativa| 2015-2026 | Analista/Desenvolvedor | PHP · MySQL · Joomla |
+| Robô de Inserção PJe (RPA — 120 instâncias) | 2022 | Analista/Desenvolvedor | Python/Node.js |
+| EducaEMES - ERP Escolar e Administrativo | 2024 | Analista/Desenvolvedor | Laravel · Filament |
 
 </details>
 
@@ -134,6 +136,7 @@ Atualmente atuo como **Assessor Judiciário**, com histórico como **Secretário
 
 ## 🎓 Formação & Capacitação
 
+- **Pós-graduação lato sensu** em Engenharia de Software com IA (2026-)
 - **Pós-graduação lato sensu** em Tecnologia da Informação (1999–2000)
 - **DBA Oracle** — Oracle Database Administration
 - **Oracle Application Server** — Oracle AS
